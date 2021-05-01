@@ -1,12 +1,14 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Inspired by Overcooked, we built a restaurant kitchen simulator
+using similar concepts from the game, which features:
+- Randomly generated orders
+- Customized orders from user input
+- Adjustable cooking and cutting time
+- Hand-drawn graphics and sprites
+
+To view simulation go to:
+https://www.greenfoot.org/scenarios/27766
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+HOW TO START THIS PROJECT: Run project in Greenfoot environment
+AUTHORS: Alexander Yee, Daniel Tan, Zhongchi Li, Deston Wong, Justin Huynh
