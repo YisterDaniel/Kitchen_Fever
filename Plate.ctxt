@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Plate
+comment0.text=\r\n\ When\ a\ chef\ interacts\ with\ a\ plate,\ their\ cooked\ ingredient\ will\ be\ drawn\ onto\ the\ plate.\ When\ the\ plate\ is\ \r\n\ complete,\ it\ can\ be\ sent\ out\ to\ the\ customer.\r\n\ \r\n\ @author\ Deston\ Wong\ \r\n\ @author\ Justin\ Huynh\r\n\ @version\ October\ 2018\r\n
+comment1.params=
+comment1.target=Plate()
+comment2.params=foodName
+comment2.target=void\ setFood(java.lang.String)
+comment2.text=\r\n\ Adds\ the\ image\ of\ the\ given\ food\ onto\ the\ plate\r\n\ \r\n\ @\ param\ foodName\ The\ name\ of\ the\ cooked\ ingredient\ being\ added\ to\ the\ plate\ (all\ in\ lowercase,\ with\ spaces\ if\ applicable)\r\n
+comment3.params=
+comment3.target=void\ placePlate()
+comment3.text=\r\n\ Place\ plate\ at\ a\ location\ 40\ pixels\ to\ the\ right\r\n\ \r\n
+comment4.params=
+comment4.target=boolean\ checkIfComplete()
+comment4.text=\r\n\ Method\ to\ check\ if\ the\ plate\ has\ been\ completed\r\n\ \r\n\ @return\ boolean\ True\ if\ plate\ has\ all\ components\r\n
+comment5.params=position
+comment5.target=void\ setPosition(int)
+comment5.text=\r\n\ Method\ to\ set\ position\ of\ the\ plate\ based\ off\ of\ the\ servery\ window\r\n\ \r\n\ @param\ position\ Position\ of\ the\ plate\ relative\ to\ which\ ServeryTarget\ it\ is\ going\ on\r\n
+comment6.params=
+comment6.target=int\ getPosition()
+comment6.text=\r\n\ Method\ to\ get\ position\ of\ the\ plate\ based\ off\ of\ the\ servery\ window\r\n\ \r\n\ @return\ int\ Position\ of\ the\ plate\ relative\ to\ which\ ServeryTarget\ it\ is\ going\ on\r\n
+numComments=7
