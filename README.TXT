@@ -10,5 +10,5 @@ To view simulation go to:
 https://www.greenfoot.org/scenarios/27766
 ------------------------------------------------------------------------
 
-HOW TO START THIS PROJECT: Run project in Greenfoot environment
+HOW TO START THIS PROJECT: Run project in the Greenfoot environment
 AUTHORS: Alexander Yee, Daniel Tan, Zhongchi Li, Deston Wong, Justin Huynh
